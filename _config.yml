@@ -226,3 +226,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+ # Logo
+ logo: "/assets/images/logo.svg"
+ 
